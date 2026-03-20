@@ -1,0 +1,44 @@
+.match-card {
+  background-color: #163862;
+  border-radius: 12px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px;
+}
+
+.match-card-logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.match-card-team {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 8px;
+}
+
+.match-card-result {
+  color: #a0aec0;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 4px;
+}
+
+.match-card-won {
+  color: #00c986;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.match-card-lost {
+  color: #f34e6a;
+  font-weight: bold;
+  font-size: 14px;
+  margin-top: 4px;
+}

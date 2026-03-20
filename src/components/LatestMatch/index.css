@@ -1,0 +1,57 @@
+.latest-match-container {
+  background-color: #163862;
+  border-radius: 12px;
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 800px;
+  margin-bottom: 24px;
+}
+
+.latest-match-team {
+  color: #f5a623;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.latest-match-date,
+.latest-match-venue,
+.latest-match-result {
+  color: #ffffff;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.latest-match-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.latest-match-label {
+  color: #a0aec0;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+.latest-match-value {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.match-won {
+  color: #00c986;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 8px;
+}
+
+.match-lost {
+  color: #f34e6a;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 8px;
+}
