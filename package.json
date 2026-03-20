@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
-    "ccbp-jest-reporter": "link:/home/nxtwave/.ccbp/ccbp-jest-reporter",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-loader-spinner": "^4.0.0",
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
-    "recharts": "2.1.9"
+    "recharts": "^2.1.9",
+    "react-loader-spinner": "^4.0.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/user-event": "^12.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -20,15 +19,7 @@
     "test": "react-scripts test"
   },
   "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
+    "production": [">0.2%", "not dead", "not op_mini all"],
+    "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
   }
 }

@@ -2,7 +2,6 @@ dependencies:
   '@testing-library/jest-dom': 5.17.0
   '@testing-library/react': 11.2.7_react-dom@17.0.2+react@17.0.2
   '@testing-library/user-event': 12.8.3
-  ccbp-jest-reporter: link:../../../.ccbp/ccbp-jest-reporter
   react: 17.0.2
   react-dom: 17.0.2_react@17.0.2
   react-loader-spinner: 4.0.0_react-dom@17.0.2+react@17.0.2
@@ -15017,10 +15016,9 @@ specifiers:
   '@testing-library/jest-dom': ^5.11.4
   '@testing-library/react': ^11.2.7
   '@testing-library/user-event': ^12.8.3
-  ccbp-jest-reporter: link:/home/nxtwave/.ccbp/ccbp-jest-reporter
   react: ^17.0.2
   react-dom: ^17.0.2
   react-loader-spinner: ^4.0.0
   react-router-dom: ^5.3.0
   react-scripts: 4.0.3
-  recharts: 2.1.9
+  recharts: ^2.1.9
